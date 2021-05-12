@@ -16,9 +16,8 @@ Libraries & Frameworks
 
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 
-Design
+Gaming & Design
 
-<img alt="Cinema4D" src="https://img.shields.io/badge/-Cinema%204D-399D9C?logo=Cinema-4D&logoColor=FFFFFF&style=for-the-badge"/> <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
-
+<img alt="Cinema4D" src="https://img.shields.io/badge/-Cinema%204D-399D9C?logo=Cinema-4D&logoColor=FFFFFF&style=for-the-badge"/> <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbrl38)](https://github.com/ahmetbrl38/github-readme-stats)
