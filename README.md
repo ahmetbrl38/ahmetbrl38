@@ -1,3 +1,5 @@
+![Hey I'm Ahmet](HeyImAhmet.gif)
+
 ![](https://komarev.com/ghpvc/?username=ahmetbrl38)
 
 👋 Hello there! I'm Ahmet Yasin Burul , I'm Junior Web Developer
