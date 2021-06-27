@@ -1,7 +1,5 @@
 ![Hey I'm Ahmet](gifLast.gif)
 
-![](https://komarev.com/ghpvc/?username=ahmetbrl38)
-
 👋 Hello there! I'm Ahmet Yasin Burul , I'm Junior Web Developer
 - 💻 I'm currently working on a Laravel Web Application
 - ⏳ I am a Software Engineering student in Uskudar University
