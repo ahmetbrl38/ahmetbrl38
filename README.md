@@ -1,7 +1,7 @@
 ![Hey I'm Ahmet](gifLast.gif)
 
 👋 Hello there! I'm Ahmet Yasin Burul , I'm Junior Web Developer
-- 💻 I'm currently working on a Asp.Net Mvc Web Application
+- 💻 I'm currently working on a 3D Game Project with Unity
 - ⏳ I am a Software Engineering student in Uskudar University
 - 🚀 Always ready to collaborate for Dev Experiments
 - 👨‍💻 I am also interested in 3D Object modelling,Animating and Game Development
