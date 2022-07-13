@@ -23,6 +23,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbrl38)](https://github.com/ahmetbrl38/github-readme-stats)
 
 #Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
