@@ -22,7 +22,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbrl38)](https://github.com/ahmetbrl38/github-readme-stats)
 
-# Blog posts
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Coordinate Systems of 3D Applications Guide](https://ahmetyasinburul.medium.com/coordinate-systems-of-3d-applications-guide-ddfa2194ed88?source=rss-9b5502f8e35------2)
 - [Set of Rules to Standarize Software Versions: Semantic Versioning](https://ahmetyasinburul.medium.com/set-of-rules-to-standarize-software-versions-semantic-versioning-b7f71f71851e?source=rss-9b5502f8e35------2)
