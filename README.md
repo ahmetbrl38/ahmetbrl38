@@ -21,3 +21,8 @@
 <img alt="Cinema4D" src="https://img.shields.io/badge/-Cinema%204D-399D9C?logo=Cinema-4D&logoColor=FFFFFF&style=for-the-badge"/> <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbrl38)](https://github.com/ahmetbrl38/github-readme-stats)
+
+#Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
