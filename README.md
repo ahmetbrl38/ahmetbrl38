@@ -2,7 +2,7 @@
 
 👋 Hello there! I'm Ahmet Yasin Burul , I'm Junior Web Developer
 - 💻 I'm currently working on a MS Project.
-- ⏳ I am a Software Engineering student in Uskudar University
+- ⏳ I am a Software Engineer.
 - 🚀 Always ready to collaborate for Dev Experiments
 - 👨‍💻 I am also interested in 3D Object modelling,Animating and Game Development
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
