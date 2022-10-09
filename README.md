@@ -23,6 +23,7 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Revolution in Project Management: History of Agile](https://ahmetyasinburul.medium.com/a-revolution-in-project-management-history-of-agile-31ea17caa4d?source=rss-9b5502f8e35------2)
 - [Coordinate Systems of 3D Applications Guide](https://ahmetyasinburul.medium.com/coordinate-systems-of-3d-applications-guide-ddfa2194ed88?source=rss-9b5502f8e35------2)
 - [Set of Rules to Standarize Software Versions: Semantic Versioning](https://ahmetyasinburul.medium.com/set-of-rules-to-standarize-software-versions-semantic-versioning-b7f71f71851e?source=rss-9b5502f8e35------2)
 <!-- BLOG-POST-LIST:END -->
