@@ -1,6 +1,6 @@
 ![Hey I'm Ahmet](gifLast.gif)
 
-👋 Hello there! I'm Ahmet Yasin Burul , I'm Junior Web Developer
+👋 Hello there! I'm Ahmet Burul,
 - ⏳ I am a Software Engineer.
 - 🚀 Always ready to collaborate for Dev Experiments
 - 👨‍💻 I am also interested in 3D Object modelling,Animating and Game Development
